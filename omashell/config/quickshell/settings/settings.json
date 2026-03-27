@@ -1,0 +1,11 @@
+{
+  "notificationPosition": "top-center",
+  "osdPosition": "bottom-center",
+  "barPosition": "top",
+  "barStyle": "dock",
+  "workspaceStyle": "og",
+  "launcherIconPreset": "omarchy",
+  "launcherIconSize": 12,
+  "rememberSettingsWindowPosition": false,
+  "openSettingsOnGeneralAlways": true
+}
