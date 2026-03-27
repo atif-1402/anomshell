@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/c5494543-a2bb-4d9e-87ff-f3982a5a8182
 ## Features and Usability
 
 ### 1) Bar
-A minimal, Omarchy‑native bar with clean workspace styling, status modules, and performance stats. It’s theme‑aware, lightweight, and designed to stay out of the way while still being informative.
+A minimal bar with clean workspace styling, omarchy status modules, and performance stats. It’s theme‑aware, lightweight, and designed to stay out of the way while still being informative.
 
 Usage -
 - Omarchy button: opens the main launcher.
@@ -40,7 +40,7 @@ Usage -
 - Keyboard‑first: type, hit Enter, done.
 
 ### 3) Theme and Background Picker
-A new style and good looking Theme and Background picker 
+A new theme and background picker interface.
 
 Usage - 
 - Dedicated Keybinds for both.
@@ -75,7 +75,7 @@ A clean control panel to manage bar style/position, OSD placement, launcher icon
 Usage - 
 - Bar: choose between layouts and positions that fit your screen and workflow.
 - OSD: move the volume/brightness overlay anywhere you like.
-- Launcher: swap the logo/icon to match your theme or distro identity.
+- Launcher: swap the logo/icon to match your personal theme or setup..
 - Workspaces: switch visual styles and adjust numbering display.
 - General: control behavior that affects the whole shell, all in one UI.
 - Changes apply live so you can tweak and preview instantly.
@@ -216,7 +216,7 @@ SUPER + SHIFT + Q
 * Ensure `~/.local/bin` is in your `$PATH`
 * Restart Hyprland if binds don't work
 * Manual config merging is intentional to prevent overwriting user setups
-* Designed for Hyprland rice setups (Omarchy tested)
+* Tested on a personal Omarchy setup.
 
 ### Troubleshooting
 
@@ -242,4 +242,4 @@ ls -l ~/.local/bin
 Omashell is in active development. Expect occasional bugs or rough edges. Please report issues with logs and screenshots so we can fix them fast.
 
 ## Credits
-Thanks to [@oldjobobo](https://github.com/OldJobobo) for helping and contributing to this project.
+Thanks to [@oldjobobo](https://github.com/OldJobobo) for helping.
