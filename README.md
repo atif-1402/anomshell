@@ -1,5 +1,5 @@
-# Omashell - Alpha Version
-Omashell is a Quickshell configuration designed specifically for Omarchy setups. It uses Omarchy scripts and tooling and is intended as a personal customization and learning project rather than a general Quickshell configuration. This project depends on Omarchy components and is mainly intended for Omarchy users.
+# Anomshell - Alpha Version
+Anomshell is a Quickshell configuration designed specifically for Omarchy setups. It uses Omarchy scripts and tooling and is intended as a personal customization and learning project rather than a general Quickshell configuration. This project depends on Omarchy components and is mainly intended for Omarchy users.
 
 ---
 
@@ -82,7 +82,7 @@ Usage -
 
 ---
 
-## Omashell Keybindings
+## Keybindings
 
 ### Main Controls
 
@@ -123,7 +123,7 @@ Usage -
 ## Repo Structure
 
 ```
-omashell/
+anomshell/
 ├── config/
 │   ├── hypr/
 │   │   └── bindings.conf
@@ -154,8 +154,8 @@ sudo pacman -S --needed quickshell cava cliphist wl-clipboard imagemagick jq
 ### Clone repository
 
 ```bash
-git clone https://github.com/atif-1402/omashell.git
-cd omashell
+git clone https://github.com/atif-1402/anomshell.git
+cd anomshell
 ```
 
 ### Backup existing configuration (Recommended)
@@ -173,7 +173,7 @@ Copy the quickshell configuration:
 cp -r config/quickshell ~/.config/
 ```
 
-### Install Omashell keybinds (Manual merge recommended)
+### Install keybinds (Manual merge recommended)
 
 Open:
 
@@ -239,7 +239,7 @@ ls -l ~/.local/bin
 ```
 
 ## Status (Alpha)
-Omashell is in active development. Expect occasional bugs or rough edges. Please report issues with logs and screenshots so we can fix them fast.
+Anomshell is in active development. Expect occasional bugs or rough edges. Please report issues with logs and screenshots so we can fix them fast.
 
 ## Credits
 Thanks to [@oldjobobo](https://github.com/OldJobobo) for helping.
