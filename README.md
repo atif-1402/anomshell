@@ -3,7 +3,7 @@ Anomshell is a Quickshell configuration designed specifically for Omarchy setups
 
 ---
 
-## Showcase - (There is more)
+## Showcase - (There is more) (Changed name preview gonna update soon)
 
 https://github.com/user-attachments/assets/c5494543-a2bb-4d9e-87ff-f3982a5a8182
 
