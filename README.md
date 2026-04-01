@@ -1,4 +1,14 @@
-# Anomshell - Alpha Version
+<h1 align="center"> Anomshell - Alpha Version </h1>
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/atif-1402/anomshell?style=for-the-badge&label=Stars&color=7FB77E)](https://github.com/atif-1402/anomshell)
+[![Forks](https://img.shields.io/github/forks/atif-1402/anomshell?style=for-the-badge&label=Forks&color=6DAA6C)](https://github.com/atif-1402/anomshell/network)
+[![Issues](https://img.shields.io/github/issues/atif-1402/anomshell?style=for-the-badge&label=Issues&color=5C9C5B)](https://github.com/atif-1402/anomshell/issues)
+[![Support](https://img.shields.io/badge/Support-Ko--fi-4B8F4A?style=for-the-badge)](https://ko-fi.com/anom538)
+
+</div>
+
 Anomshell is a Quickshell configuration designed specifically for Omarchy setups. It uses Omarchy scripts and tooling and is intended as a personal customization and learning project rather than a general Quickshell configuration. This project depends on Omarchy components and is mainly intended for Omarchy users.
 
 ---
