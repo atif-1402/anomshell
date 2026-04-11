@@ -301,7 +301,7 @@ quickshell
 
 **Check IPC:**
 ```bash
-quickshell ipc list
+quickshell ipc show
 ```
 
 **Verify scripts:**
