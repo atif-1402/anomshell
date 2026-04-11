@@ -272,6 +272,15 @@ chmod +x ~/.local/bin/wb-kill.sh
 
 or use the keybind: `SUPER + SHIFT + Q`
 
+### 8 — Start Quickshell at startup *(optional)*
+
+```bash
+cat >> ./.config/hypr/autostart.conf << 'EOF'
+exec-once = ~/.local/bin/wb-kill.sh
+exec-once = ~/.local/bin/qs.sh
+EOF
+```
+
 ---
 
 ### 📝 Notes
