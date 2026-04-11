@@ -77,6 +77,7 @@ Item {
         if (_hasAny(text, ["clipboard"])) return "󰅌"
         if (_hasAny(text, ["calendar"])) return "󰃭"
         if (_hasAny(text, ["notes", "note"])) return "󱞎"
+        if (_hasAny(text, ["input method", "input-keyboard"])) return "󰧹"
         return ""
     }
 
