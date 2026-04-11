@@ -210,7 +210,7 @@ anomshell/
 ├── local/
 │   └── bin/
 │       ├── qs.sh
-│       └── wb-kill.sh
+│       └── kill_omarchy_conflicts.sh.sh
 │
 ├── LICENSE
 └── README.md
@@ -261,7 +261,7 @@ Open `config/hypr/bindings.conf`, copy the Quickshell binds, and **manually past
 ```bash
 cp local/bin/* ~/.local/bin/
 chmod +x ~/.local/bin/qs.sh
-chmod +x ~/.local/bin/wb-kill.sh
+chmod +x ~/.local/bin/kill_omarchy_conflicts.sh.sh
 ```
 
 ### 7 — Start Quickshell
