@@ -320,6 +320,7 @@ Anomshell is in **active alpha development**. Expect occasional bugs or rough ed
 ## 💙 Credits
 
 Thanks to [@OldJobobo](https://github.com/OldJobobo) for helping.
+Thanks to [@S0NN1](https://github.com/S0NN1) for helping.
 
 ---
 
