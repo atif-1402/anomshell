@@ -1,5 +1,7 @@
 > ⚠️ **Archived** — Archived this project for now need to learn more about Quickshell and QML
-
+<br>
+<br>
+<br>
 
 <div align="center">
 
