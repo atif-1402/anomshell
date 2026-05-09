@@ -1,3 +1,6 @@
+> ⚠️ **Archived** — Archived this project for now need to learn more about Quickshell and QML
+
+
 <div align="center">
 
 ```
